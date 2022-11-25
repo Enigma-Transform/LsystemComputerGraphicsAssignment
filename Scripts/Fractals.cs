@@ -7,6 +7,8 @@ using TMPro;
 using Unity.VisualScripting;
 using System.Linq;
 
+/*This is similar to LsystemGene script it does the same things excepts takes 1 less argument which is iterations because these are hardcoded.
+ * I have created a new Script just to keep things seperate for my understanding. Functionality is the same*/
 public class Fractals : MonoBehaviour
 {
     [SerializeField]
